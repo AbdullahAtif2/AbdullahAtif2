@@ -6,5 +6,3 @@ I’m always picking up something new (usually a tool I should’ve learned mont
 
 You’ll find a mix of experiments, half-finished prototypes, “quick” designs that took five hours, and the occasional project that actually works on the first try.
 
-When in doubt: fillet it. And if that fails… add more constraints and hope for the best.<!--
-
